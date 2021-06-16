@@ -1,6 +1,6 @@
 {
   "name": "agun-test-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个简单的脚手架a",
   "preferGlobal": true,
   "bin": {
