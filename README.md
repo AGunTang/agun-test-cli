@@ -10,4 +10,4 @@ agun init
 
 #### 项目描述
 
-该项目为SmallHorseBrute用户开发的脚手架
+该项目AGunTang用户开发的脚手架
